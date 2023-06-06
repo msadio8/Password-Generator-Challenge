@@ -23,10 +23,12 @@ THEN the password is either displayed in an alert or written to the page
 
 # To Test the Application 
  see screenshots below & Application deployed at live URL
-![Alt text](../../Screenshot%202023-06-07%20at%208.13.13%20am%20(2).png).
-![Alt text](../../Screenshot%202023-06-07%20at%208.08.31%20am%20(2).png)
-![Alt text](../../Screenshot%202023-06-07%20at%208.13.20%20am%20(2).png)
-![Alt text](../../Screenshot%202023-06-07%20at%208.13.01%20am%20(2).png)
+![Alt text](Screenshot%202023-06-07%20at%209.14.35%20am%20(2).png)
+![Alt text](Screenshot%202023-06-07%20at%209.14.50%20am%20(2).png)
+![Alt text](Screenshot%202023-06-07%20at%209.15.45%20am%20(2).png)
+![Alt text](Screenshot%202023-06-07%20at%209.15.59%20am%20(2).png)
+![Alt text](Screenshot%202023-06-07%20at%209.16.11%20am%20(2).png)
+
 
 Applicaton URL 
 https://msadio8.github.io/Password-Generator-Challenge/.
@@ -53,3 +55,6 @@ and support from my tutor, TA's and teacher Dan
 
    
 
+
+
+[def]: Screenshot%202023-06-07%20at%209.14.35%20am%20(2).png
